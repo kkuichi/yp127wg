@@ -4,8 +4,8 @@
 
 Táto práca  je zameraná na predikciu pravdepodobnosti bankrotu podnikov. Súčasťou je aj interaktívna aplikácia vytvorená v prostredí Streamlit, ktorá umožňuje vykonávať **What-if analýzu** finančných ukazovateľov.
 Používateľ môže meniť vybrané finančné ukazovatele a sledovať, ako sa zmení pravdepodobnosť bankrotu podniku.
-
 V projekte boli testované a porovnávané viaceré modely strojového učenia a techniky riešenia nevyvážených dát.
+
 Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je možné otvoriť v Jupyter Notebook alebo vo Visual Studio Code.
 
 ## Použité knižnice
