@@ -32,9 +32,9 @@ Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je
 
 
 
-# Štruktúra projektu
+## Štruktúra projektu
 
-## Jupyter notebooky
+### Jupyter notebooky
 
 | Súbor | Popis |
 |---|---|
@@ -47,7 +47,7 @@ Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je
 | `model_pre_aplikaciu.ipynb` | Príprava finálneho modelu pre aplikáciu |
 
 
-## Súbory aplikácie
+### Súbory aplikácie
 
 | Súbor | Popis |
 |---|---|
@@ -57,7 +57,7 @@ Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je
 | `feature_names.pkl` | Zoznam použitých premenných |
 
 
-## Dátové súbory
+### Dátové súbory
 
 | Súbor | Popis |
 |---|---|
@@ -66,7 +66,7 @@ Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je
 | `y_test.csv` | Testovacie cieľové hodnoty |
 
 
-# Funkcionalita aplikácie
+## Funkcionalita aplikácie
 
 Aplikácia umožňuje:
 
@@ -79,7 +79,7 @@ Aplikácia umožňuje:
 - zobraziť vizualizáciu výsledkov.
 
 
-# Vyhodnotenie modelov
+## Vyhodnotenie modelov
 
 Modely boli hodnotené pomocou metrík:
 
@@ -90,7 +90,7 @@ Modely boli hodnotené pomocou metrík:
 
 
 
-# Spustenie aplikácie
+## Spustenie aplikácie
 
 Na spustenie aplikácie použite:
 
