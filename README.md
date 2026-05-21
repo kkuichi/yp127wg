@@ -6,7 +6,7 @@ Táto práca  je zameraná na predikciu pravdepodobnosti bankrotu podnikov. Sú�
 Používateľ môže meniť vybrané finančné ukazovatele a sledovať, ako sa zmení pravdepodobnosť bankrotu podniku.
 
 V projekte boli testované a porovnávané viaceré modely strojového učenia a techniky riešenia nevyvážených dát.
-
+Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je možné otvoriť v Jupyter Notebook alebo vo Visual Studio Code.
 
 # Použité technológie a knižnice
 
@@ -98,7 +98,5 @@ Na spustenie aplikácie použite:
 streamlit run app.py
 ```
 
----
-
-# Yana Pavlyk
+Yana Pavlyk
 
