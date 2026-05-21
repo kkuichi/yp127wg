@@ -8,26 +8,26 @@ Používateľ môže meniť vybrané finančné ukazovatele a sledovať, ako sa 
 V projekte boli testované a porovnávané viaceré modely strojového učenia a techniky riešenia nevyvážených dát.
 Práca bola vytvorená v jazyku Python v prostredí Jupyter Notebook. Súbory je možné otvoriť v Jupyter Notebook alebo vo Visual Studio Code.
 
-# Použité technológie a knižnice
+# Použité knižnice
 
-## Spracovanie dát
+### Spracovanie dát
 - pandas
 - numpy
 
-## Strojové učenie
+### Strojové učenie
 - scikit-learn
 - xgboost
 - lightgbm
 - imbalanced-learn
 
-## Vizualizácia
+### Vizualizácia
 - matplotlib
 - seaborn
 
-## Webová aplikácia
+### Webová aplikácia
 - streamlit
 
-## Ukladanie modelov
+### Ukladanie modelov
 - joblib
 
 
